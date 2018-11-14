@@ -16,14 +16,14 @@ Things the app does are:
 ![screen recording 2018-11-14 at 12 22 pm](https://user-images.githubusercontent.com/38836949/48500221-52b86a00-e808-11e8-8d17-707ee796b91b.gif)
 
 
-###Things you will need to do to get started:
+### Things you will need to do to get started:
 
 - [x] Read all the README file
-- [ ] Download the files from Git Hub.[Here is a How to.](https://www.quora.com/How-do-I-download-something-from-GitHub
+- [ ] Download the files from Git Hub. [Here is a How to.](https://www.quora.com/How-do-I-download-something-from-GitHub
 )  
 - [ ] Copy the text in Schema.sql and paste on your prefered sql query tool. I used [MySQL Workbench](https://www.mysql.com/products/workbench/). And here is [how to Import and Run SQL ](https://www.youtube.com/watch?v=POcHaIwmAhw)
 - [ ] Change the password in the file bamazonCustomer.js to the password of your database.
-- [ ] Open terminal and type each line separately 
+- [ ] Open terminal and type each line separately. 
 You will need to install some software libraries for this to work.
 All you need to do is copy and paste the line below to your terminal and hit enter.
 		
@@ -31,7 +31,7 @@ All you need to do is copy and paste the line below to your terminal and hit ent
 npm install
 
 ```
-- [ ] Now we can have fun! Run the app and answer the questions.
+- [ ] Now we can have fun! Copy and paste the line below and Run the app and answer the questions.
 
 ```
 
